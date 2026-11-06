@@ -1,0 +1,6 @@
+# Source archive only: create an explicit train/val split before training.
+path: .
+train: images
+val: null
+names:
+  0: "head"

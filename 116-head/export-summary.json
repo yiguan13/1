@@ -1,0 +1,22 @@
+{
+  "project_id": 116,
+  "title": "头部检测｜进食检测共用",
+  "slug": "head",
+  "tasks": 453,
+  "images_copied": 453,
+  "completed_tasks": 453,
+  "unlabeled_tasks": 0,
+  "boxes": 453,
+  "invalid_boxes_skipped": 0,
+  "missing_sources": 0,
+  "unsupported_references": 0,
+  "unsupported_results": 0,
+  "classes": [
+    "head"
+  ],
+  "config_classes": [
+    "head"
+  ],
+  "classes_added_from_results": [],
+  "created_at": "2026-11-05T09:45:30"
+}
